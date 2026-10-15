@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2f0e8"/>
+  <path d="M0 93H1200" stroke="#d7d5cb" stroke-width="2"/>
+  <path d="M0 564H1200" stroke="#d7d5cb" stroke-width="2"/>
+  <g fill="none" stroke="#202724" stroke-width="4" transform="translate(68 32)">
+    <rect x="1" y="1" width="34" height="34" rx="4"/>
+    <path d="M18 8v12M11 13a10 10 0 1 0 14 0"/>
+  </g>
+  <text x="120" y="57" fill="#202724" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">IS MY PC ON?</text>
+  <circle cx="791" cy="49" r="6" fill="#b34b33"/>
+  <text x="812" y="56" fill="#59615b" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">POWER ASSURANCE BUREAU</text>
+  <text x="70" y="175" fill="#b34b33" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">SERVICE ONLINE</text>
+  <text x="65" y="284" fill="#202724" font-family="Georgia, serif" font-size="88" font-weight="700" letter-spacing="-5">Is my PC</text>
+  <text x="65" y="378" fill="#b34b33" font-family="Georgia, serif" font-size="94" font-weight="700" letter-spacing="-4">on?</text>
+  <text x="70" y="445" fill="#58615b" font-family="Arial, sans-serif" font-size="20">Pro is ₱99 per month. Enterprise pricing is custom.</text>
+  <text x="70" y="478" fill="#58615b" font-family="Arial, sans-serif" font-size="20">This page cannot access your computer.</text>
+  <rect x="675" y="131" width="458" height="388" rx="4" fill="#202724"/>
+  <rect x="705" y="164" width="398" height="320" fill="#171d1a" stroke="#465149" stroke-width="2"/>
+  <text x="705" y="117" fill="#59615b" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">REASSURANCE INSTRUMENT</text>
+  <text x="730" y="205" fill="#e8e6dc" font-family="Georgia, serif" font-size="27" font-weight="700">IMPO</text>
+  <text x="985" y="203" fill="#bfc6bc" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">FIELD UNIT · 01</text>
+  <text x="730" y="247" fill="#bac4b9" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">RESULT / LOCKED</text>
+  <circle cx="1070" cy="244" r="5" fill="#b34b33"/>
+  <text x="730" y="340" fill="#c9e96c" font-family="Georgia, serif" font-size="74" font-weight="700" letter-spacing="-3">LOCKED</text>
+  <path d="M730 365H1070" stroke="#59615b" stroke-width="2"/>
+  <text x="730" y="394" fill="#c4ccc2" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">CHECKOUT NOT AVAILABLE</text>
+  <text x="730" y="453" fill="#c4ccc2" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">NO CABLES CONNECTED</text>
+  <text x="959" y="453" fill="#c4ccc2" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">NO OBSERVATIONS MADE</text>
+  <text x="70" y="605" fill="#707871" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">PRO ₱99 / MONTH  ·  ENTERPRISE CUSTOM PRICING  ·  NO HARDWARE ACCESS</text>
+  <text x="1020" y="605" fill="#707871" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">ISMYPCON</text>
+</svg>
