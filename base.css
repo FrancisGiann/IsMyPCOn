@@ -1,0 +1,26 @@
+@font-face { font-family: "Noto Serif"; src: url("/fonts/NotoSerif-Regular.ttf") format("truetype"); font-style: normal; font-weight: 400; font-display: swap; }
+@font-face { font-family: "Noto Serif"; src: url("/fonts/NotoSerif-Bold.ttf") format("truetype"); font-style: normal; font-weight: 700; font-display: swap; }
+@font-face { font-family: "Red Hat Text"; src: url("/fonts/RedHatText-Regular.otf") format("opentype"); font-style: normal; font-weight: 400; font-display: swap; }
+@font-face { font-family: "Red Hat Text"; src: url("/fonts/RedHatText-SemiBold.otf") format("opentype"); font-style: normal; font-weight: 600; font-display: swap; }
+@font-face { font-family: "Red Hat Text"; src: url("/fonts/RedHatText-Bold.otf") format("opentype"); font-style: normal; font-weight: 700; font-display: swap; }
+:root {
+  font-family: "Red Hat Text", Arial, sans-serif; color: #202523; background: #f2f0e8;
+  color-scheme: light; font-size: 16px; font-optical-sizing: auto; font-synthesis: none; font-weight: 400;
+  --paper: #f2f0e8; --paper-deep: #e5e2d8; --ink: #202523; --muted: #535c57;
+  --clay: #a84229; --green: #c9e96c; --console: #252c29; --console-low: #1a201e;
+  --rule: #c9c7be; --serif: "Noto Serif", Georgia, serif; --sans: "Red Hat Text", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 22px; scrollbar-color: #8a928b var(--paper); }
+body { margin: 0; min-width: 320px; overflow-x: hidden; background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: 1rem; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+body::selection, body *::selection { color: var(--ink); background: var(--green); }
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.2em; }
+button { color: inherit; font: inherit; }
+button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px solid var(--clay); outline-offset: 4px; }
+:focus:not(:focus-visible) { outline: none; }
+.skip-link { position: fixed; z-index: 10; top: 10px; left: 12px; padding: 12px 16px; transform: translateY(-160%); background: var(--ink); color: var(--paper); font-weight: 700; }
+.skip-link:focus { transform: translateY(0); }
+::placeholder { color: var(--muted); opacity: 1; }
+::-webkit-scrollbar { width: 12px; }
+::-webkit-scrollbar-track { background: var(--paper); }
+::-webkit-scrollbar-thumb { border: 3px solid var(--paper); background: #8a928b; border-radius: 20px; }
